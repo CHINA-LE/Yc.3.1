@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e784d74-4ed0-49cf-bafb-083a15d6e0b2" name="Default Changelist" comment="父项目建立">
+    <list default="true" id="9e784d74-4ed0-49cf-bafb-083a15d6e0b2" name="Default Changelist" comment="子项目LE建立">
+      <change afterPath="$PROJECT_DIR$/gitLE/gitLE.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test1/Address.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test1/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test1/Test1.java" afterDir="false" />
@@ -64,6 +65,9 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -94,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1691303343938</updated>
       <workItem from="1691303475765" duration="1834000" />
-      <workItem from="1691305345905" duration="1004000" />
+      <workItem from="1691305345905" duration="1360000" />
     </task>
     <task id="LOCAL-00001" summary="父项目建立">
       <created>1691305004196</created>
@@ -103,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691305004196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="子项目LE建立">
+      <created>1691306703159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691306703159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +134,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="父项目建立" />
-    <option name="LAST_COMMIT_MESSAGE" value="父项目建立" />
+    <MESSAGE value="子项目LE建立" />
+    <option name="LAST_COMMIT_MESSAGE" value="子项目LE建立" />
   </component>
 </project>
