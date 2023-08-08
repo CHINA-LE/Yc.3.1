@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e784d74-4ed0-49cf-bafb-083a15d6e0b2" name="Default Changelist" comment="子项目LE建立">
+      <change afterPath="$PROJECT_DIR$/gitLE/gitLE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test1/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test1/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test2/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test2/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test2/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test3_factoryBean/AppConfigTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test3_factoryBean/FruitFactoryBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test3_factoryBean/Pear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test3_factoryBean/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test4_annotation/AppConfig_Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test4_annotation/ProductBiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test4_annotation/ProductBizImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test4_annotation/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test4_annotation/ProductDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test4_annotation/Test4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/AppConfig_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/AppConfig_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/AppConfig_Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/Banana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/FruitImportSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/FruitNameImportBeanDefinitionRegistrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/Grape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/Test5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test5_import/Test5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test6_conditional/AppConfig_test6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test6_conditional/NetConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test6_conditional/SystemCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitLE/src/main/java/com/yc/spring/Test6_conditional/Test6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TbENlRZFKONGmv59LAfZ9LXbUb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gitLE/src/main/java/com/yc" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\_文件柜\gitTest\gitmerge\gitLE\src\main\java\com\yc" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e784d74-4ed0-49cf-bafb-083a15d6e0b2" name="Default Changelist" comment="" />
+      <created>1691303343938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691303343938</updated>
+      <workItem from="1691303475765" duration="1834000" />
+      <workItem from="1691305345905" duration="1360000" />
+    </task>
+    <task id="LOCAL-00001" summary="父项目建立">
+      <created>1691305004196</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691305004196</updated>
+    </task>
+    <task id="LOCAL-00002" summary="子项目LE建立">
+      <created>1691306703159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691306703159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="父项目建立" />
+    <MESSAGE value="子项目LE建立" />
+    <option name="LAST_COMMIT_MESSAGE" value="子项目LE建立" />
+  </component>
+</project>

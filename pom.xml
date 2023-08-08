@@ -11,6 +11,7 @@
     <modules>
         <module>gitLE</module>
         <module>TestJYL</module>
+        <module>zht</module>
     </modules>
 
     <properties>

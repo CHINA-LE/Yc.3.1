@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="TestJYL" />
         <module name="gitLE" />
+        <module name="zht" />
       </profile>
     </annotationProcessing>
   </component>
